@@ -13,8 +13,8 @@ This Library is not associated to GoFundMe, Inc. in any way, shape, or form.
 
 
     const gfm = require("gofundme");
-    gfm.setCampaignUrl("<YOUR CAMPAIGN CODE HERE>");
-    // as in https://www.gofundme.com/<YOUR CAMPAIGN CODE HERE>
+    gfm.setCampaignUrl("600f9582");
+    // as in https://www.gofundme.com/600f9582
 
 
     gfm.getLatestDonations((err,result) => {
